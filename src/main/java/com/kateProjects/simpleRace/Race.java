@@ -1,3 +1,4 @@
+package com.kateProjects.simpleRace;
 import java.util.Arrays;
 import java.util.Comparator;
 

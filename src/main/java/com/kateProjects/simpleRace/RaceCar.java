@@ -1,3 +1,5 @@
+package com.kateProjects.simpleRace;
+
 import java.util.Random;
 
 public class RaceCar extends Thread {

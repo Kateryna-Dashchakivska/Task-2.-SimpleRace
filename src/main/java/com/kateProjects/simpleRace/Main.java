@@ -1,3 +1,5 @@
+package com.kateProjects.simpleRace;
+
 public class Main {
 
 
